@@ -1,0 +1,24 @@
+{
+  "name": "social-media-isnt-either",
+  "version": "1.0.0",
+  "description": "social media api using the mongoose",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BanditHeelerPDX/social-media-isnt-either.git"
+  },
+  "author": "moi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BanditHeelerPDX/social-media-isnt-either/issues"
+  },
+  "homepage": "https://github.com/BanditHeelerPDX/social-media-isnt-either#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.2.1"
+  }
+}
