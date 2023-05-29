@@ -7,8 +7,6 @@ const connectDB = async () => {
     await connect(connectionString, {
       useNewUrlParser: true,
       useUnifiedTopology: true,
-      useCreateIndex: true,
-      useFindAndModify: false,
     });
   } catch (err) {
     console.error(err);
