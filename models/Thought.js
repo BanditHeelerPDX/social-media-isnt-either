@@ -24,7 +24,7 @@ const ThoughtSchema = new Schema(
           type: Schema.Types.ObjectId,
           default: () => new mongoose.Types.ObjectId(),
         },
-        reactionBody: {
+        reactionText: {
           type: String,
           required: true,
           maxlength: 360,
