@@ -19,11 +19,11 @@ Rudimentary social network api created using node, nosql and express with a dash
 
 ## Installation
       
-From the appropriate directory in the terminal run `node server` and then you can interact with your database all day in Insomnia or Postman or whatever you prefer.  And if you'd like my seed data, you can all run `node seeds/seeds` from the appropriate directory in the terminal.
+From the appropriate directory in the terminal run `node server` and then you can interact with your database all day in Insomnia or Postman or whatever you prefer.  And if you'd like my seed data, you can run `node seeds/seeds` from the appropriate directory in the terminal.
       
 ## Usage
       
-To teach me the ins and outs of NoSQL and MongoDB working in tandem - real world necessity for this is application is minimal.
+To teach me the ins and outs of NoSQL and MongoDB working in tandem - real world necessity for this application is minimal.
       
 ## License
       
